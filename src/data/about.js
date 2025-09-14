@@ -1,5 +1,5 @@
 const AboutData = {
-  image: require("../assets/Images/about.png"),
+  image: require("../assets/Images/pngtree-focused-developer-writing-code-at-desk-png-image_19725107.png"),
   description: [
     "I am a skilled and dedicated full stack developer with nearly 9 years of professional experience in software development.",
     "My strengths include problem-solving, implementing clean and efficient logic, and delivering scalable solutions. I specialize in working with JavaScript, Python, and PHP, as well as modern frameworks and libraries that power today’s web applications.",
