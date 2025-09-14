@@ -38,7 +38,7 @@ const ContactModal = ({ isOpen, onClose }) => {
             </div>
             <div>
               <p className="text-sm text-gray-500 uppercase tracking-wide font-medium">Telegram</p>
-              <p className="text-lg font-semibold text-gray-800">@quin1410</p>
+              <p className="text-lg font-semibold text-gray-800">@Maxmax123421</p>
             </div>
           </div>
           
@@ -49,7 +49,7 @@ const ContactModal = ({ isOpen, onClose }) => {
             </div>
             <div>
               <p className="text-sm text-gray-500 uppercase tracking-wide font-medium">Email</p>
-              <p className="text-lg font-semibold text-gray-800 break-all">diego.torres.raw216@gmail.com</p>
+              <p className="text-lg font-semibold text-gray-800 break-all">maximandreev3372@gmail.com</p>
             </div>
           </div>
         </div>
